@@ -1,9 +1,11 @@
-# Hi, I'm Muhammed Anas 👋
+<h1 align="center">Hi 👋, I'm Muhammed Anas</h1>
 
-## About Me
-- 🌱 I'm currently learning Git and version control
-- 💻 I'm interested in cloud computing, System Design
-- 📫 How to reach me: anas
+---
 
-## Projects
-- Ai Based Vehicle Monitoring System
+## 💲 whoami
+
+- 🎓 MCA Student At TKM COLLEGE OF ENGINEERING
+- 💻 Software Developer & Cybersecurity Enthusiast
+- 🛜 Passionate about Networking, DevOps, Cloud Security
+- ⚙️ Learning Linux, Docker, Kubernetes, AWS & Automation
+- 🌍 Based in Kerala, India
